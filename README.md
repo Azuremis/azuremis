@@ -38,11 +38,11 @@ But there’s more to my journey than algorithms and data. I’m equally fascina
 > _I love building tools and applications that merge AI with real-world user experiences._
 
 - **AceTheRound**: An AI interview platform designed to help students break into the finance industry.  
-  [Visit AceTheRound](https://acetheround.com) for more information.
+  Visit [AceTheRound](https://acetheround.com) for more information.
 
 - **VibraPoe**: AI-driven poetry platform blending generative techniques with creative writing.
 
-- **Poetic Genesis**: An anthology of 52 AI-crafted poems, showcasing the synergy between human creativity and language models.
+- **Poetic Genesis**: An [anthology](https://poetry.azuremis.com/) of 52 AI-crafted poems, showcasing the synergy between human creativity and language models.
 
 ---
 
@@ -52,14 +52,15 @@ Welcome to [**Vibrational Intelligence**](https://azuremis.substack.com), a tran
 ---
 
 ## 🚀 Tech Stack & Tools
+
 Here are a few of the technologies I frequently use and love:
 
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23ff3e00.svg?style=flat-square&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=node-dot-js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)
 
 ...and many more! Check out my repositories for detailed setups and configurations.
 
