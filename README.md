@@ -47,7 +47,7 @@ But there’s more to my journey than algorithms and data. I’m equally fascina
 ---
 
 ## 🌀 Vibrational Intelligence
-Welcome to [**Vibrational Intelligence**](https://azuremis.substack.com), a transformative Substack journey where the cutting-edge world of artificial intelligence meets the timeless wisdom of ancestral knowledge and spiritual insight. Here, we explore the harmonious fusion of technology and soul, creating a vibrant tapestry that elevates human consciousness and amplifies our creative potential.
+I also write [**Vibrational Intelligence**](https://azuremis.substack.com), a transformative Substack where the cutting-edge world of artificial intelligence meets the timeless wisdom of ancestral knowledge and spiritual insight. Here, we explore the harmonious fusion of technology and soul, creating a vibrant tapestry that elevates human consciousness and amplifies our creative potential.
 
 ---
 
