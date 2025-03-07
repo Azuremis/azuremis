@@ -9,28 +9,31 @@ But there’s more to my journey than algorithms and data. I’m equally fascina
 ---
 
 ## ✨ About Me
-- 🏭 **Industry Experience**: Worked on recommender systems, cloud-based microservices, and chatbots with nuanced personality traits.
+- 🏭 **Industry Experience**: Worked on AI-powered interview coach, vibrant poetry generation, chatbots with nuanced personality traits and more.
 - ⚙️ **Tech Stack Highlights**:
   - **Frontend**: SvelteKit, TypeScript, Tailwind CSS, Vite
-  - **Backend**: Python (FastAPI), Node.js, Cloudflare Workers, Express, Hono
-  - **Databases**: PostgreSQL (Supabase)
-  - **DevOps & Infra**: Docker, Docker Compose, GitHub Actions, Cloudflare Pages
+  - **Backend**: Python, Node.js, Cloudflare Workers, Express, Hono
+  - **Data Science**: Kedro, pandas, NumPy, scikit-learn, LightGBM, XGBoost
+  - **ML Ops**: MLflow, Kedro-Viz, Jupyter, experiment tracking pipelines
+  - **Databases**: PostgreSQL & Supabase, SQLite
+  - **DevOps & Infra**: Docker, Docker Compose, Tilt, GitHub Actions, Cloudflare Pages
   - **Testing**: Jest, Pytest
   - **Security & Auth**: JWT, Supabase Auth
-- 🌱 **Currently Learning**: Advanced transformer architectures, best practices in serverless and edge computing.
-- 🎤 **Community**: Active committee member at PyData London; frequent contributor to community events and knowledge-sharing sessions.
+- 🌱 **Currently Learning**: Advanced transformer architectures, best practices in serverless and edge computing, quantitative finance modeling
+- 🔬 **Research Interests**: Reproducible ML pipelines, financial time series forecasting, feature engineering for abstract financial data, and ensemble modeling strategies.
+- 🎤 **Community**: Active member at London.AI, PyData London; frequent contributor to community events and knowledge-sharing sessions; participant in Numerai forums and collaborative research.
 
 ---
 
 ## 💼 Professional Snapshot
-**Machine Learning Engineer @ Syd**
+**Junior Machine Learning Engineer @ [Syd](https://www.linkedin.com/company/syd-lqi/posts/?feedView=all)**
 - Built and deployed a **reinforcement learning**-powered recommender system, boosting user engagement by 75%.
 - Engineered a chatbot capable of delivering 5 distinct personalities, driving more nuanced, personalized user interactions.
 - Created automated pipelines for **information extraction** and scientific recommendations.
 
 **Machine Learning Engineer Apprentice @ The Machine Learning Institute**
-- Implemented various data-driven applications (e.g., data pipelines, recommendation engines).
-- Explored the latest in deep learning architectures (e.g., transformers with sparse attention).
+- Implemented various data-driven applications (e.g., data pipelines, recommendation engine).
+- Explored the latest in deep learning architectures (e.g. transformers).
 
 ---
 
@@ -53,16 +56,27 @@ I also write [**Vibrational Intelligence**](https://azuremis.substack.com), a tr
 
 ## 🚀 Tech Stack & Tools
 
-Here are a few of the technologies I frequently use and love:
+Here are a some of the technologies I frequently use and love:
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Kedro](https://img.shields.io/badge/Kedro-%23FFC900.svg?style=flat-square&logo=kedro&logoColor=black)
+![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=flat-square&logo=mlflow&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23ff3e00.svg?style=flat-square&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=node-dot-js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
-...and many more! Check out my repositories for detailed setups and configurations.
+...and many more!
 
 ---
 
@@ -77,11 +91,11 @@ Here are a few of the technologies I frequently use and love:
 ## 🤝 Let’s Connect
 - **Website**: [azuremis.com](https://azuremis.com)
 - **LinkedIn**: [linkedin.com/in/azuremis](https://www.linkedin.com/in/azuremis/)
-- **Twitter**: [twitter.com/azuremis](https://twitter.com/azuremis)
+- **X**: [twitter.com/azuremis](https://twitter.com/azuremis)
 - **Instagram**: [instagram.com/azuremis](https://instagram.com/azuremis)
 - **GitHub**: [github.com/azuremis](https://github.com/azuremis)
 
-I’m always open to discussing **ML innovations**, **cloud-native tech**, or **community events**. Feel free to drop me a message or open an issue/pull request on any of my projects!
+I’m always open to discussing **all things AI**. Feel free to drop me a message or open an issue/pull request on any of my projects!
 
 ---
 
