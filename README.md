@@ -16,7 +16,7 @@ But there’s more to my journey than algorithms and data. I’m equally fascina
   - **Data Science**: Kedro, pandas, NumPy, scikit-learn, LightGBM, XGBoost
   - **ML Ops**: MLflow, Kedro-Viz, Jupyter, experiment tracking pipelines
   - **Databases**: PostgreSQL & Supabase, SQLite
-  - **DevOps & Infra**: Docker, Docker Compose, Tilt, GitHub Actions, Cloudflare Pages
+  - **DevOps & Infra**: Docker, Docker Compose, Tilt, GitHub Actions, Cloudflare Workers
   - **Testing**: Jest, Pytest
   - **Security & Auth**: JWT, Supabase Auth
 - 🌱 **Currently Learning**: Advanced transformer architectures, best practices in serverless and edge computing, quantitative finance modeling
