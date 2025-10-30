@@ -1,6 +1,6 @@
 # 👋🏾 Hi, I’m Azuremis
 
-I’m a technologist driven by the magic that happens when cutting-edge AI meets the depths of human potential. As a Prime Mover at **AzuLabs**, I’m not just crunching numbers or writing code—I’m crafting transformative solutions that spark innovation and elevate our collective consciousness.
+I’m a technologist driven by the magic that happens when cutting-edge AI meets the depths of human potential. As a Prime Mover at **AzuLabs**, I’m not just crunching numbers or writing code, I’m crafting transformative solutions that spark innovation and elevate our collective consciousness.
 
 At AzuLabs, I work at the vibrant intersection of **natural language processing**, **reinforcement learning**, **recommendation systems**, and **generative AI**. My approach is rooted in first-principles thinking, blending logic with creativity to design elegant, high-performance solutions using Python, fastai, PyTorch, and a suite of modern tools. I embrace every challenge as an opportunity to push the boundaries of what technology can achieve.
 
